@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+!.env.example
+server.backup.js
+server.jwt-backup.js
